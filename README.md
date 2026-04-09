@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,40:2563EB,100:7C3AED&height=250&section=header&text=Isabella%20Luong&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Safety%20Researcher%20%C2%B7%20Founding%20AI%20Engineer%20%40%20DeepSurg&descAlignY=60&descSize=20&descColor=c9d1d9"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&repeat=true&width=750&lines=🔬+Probing+where+AI+evaluation+breaks+down...;🤖+Building+first-to-market+surgical+AI+%40+DeepSurg;📊+Benchmark+design+%26+adversarial+robustness+researcher;🧠+CAMBRIA+alumna+·+SPAR+Spring+2026+×2;🏆+4×+national%2Finternational+competition+winner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&repeat=true&width=750&lines=Probing+where+AI+evaluation+breaks+down...;Building+first-to-market+surgical+AI+%40+DeepSurg;Benchmark+design+%26+adversarial+robustness;CAMBRIA+alumna+%C2%B7+SPAR+Spring+2026+x2;4x+national+%26+international+competition+winner" alt="Typing SVG" />
 
 <br/>
 
