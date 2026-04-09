@@ -27,15 +27,6 @@
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=lysabellaaaa&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
 ## 📊 GitHub Stats
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=lysabellaaaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563EB&icon_color=F5A623&text_color=c9d1d9&rank_icon=github"/>
