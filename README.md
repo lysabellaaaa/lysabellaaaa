@@ -29,11 +29,6 @@
 
 ## 📊 GitHub Stats
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=lysabellaaaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563EB&icon_color=F5A623&text_color=c9d1d9&rank_icon=github"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lysabellaaaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2563EB&text_color=c9d1d9&langs_count=8&card_width=320"/>
-
-<br/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=lysabellaaaa&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=F5A623&currStreakLabel=2563EB&sideLabels=c9d1d9&dates=8da0c4)](https://git.io/streak-stats)
 
 </div>
