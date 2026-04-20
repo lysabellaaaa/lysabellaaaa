@@ -22,7 +22,7 @@
 - 📫 How to reach me: [my.isabella.luong@gmail.com](mailto:my.isabella.luong@gmail.com) · [LinkedIn](https://www.linkedin.com/in/isabella-my-luong) · [Portfolio](https://lysabellaaaa.github.io/portfolio)
 - 😄 Pronouns: **she/her**
 - ⚡ Fun fact: I won **4 national/international competitions** before pivoting into AI research — including ranking 1st twice at a McKinsey fellowship and building Vietnam's first blockchain blood donation network
-
+- Account merged from an older school account earlier this year, but start date badge don't transfer! 
 ---
 
 <div align="center">
