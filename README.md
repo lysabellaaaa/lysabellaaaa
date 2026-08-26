@@ -15,7 +15,6 @@
 
 ---
 
-- 🔭 I'm currently working on **surgical AI** at [DeepSurg](https://deepsurg.com) — building an agentic tutor for laparoscopic procedures, and running **3 AI safety research projects** on evaluation failure, LLM-as-judge bias, and cross-session adversarial detection
 - 🌱 I'm currently learning **mechanistic interpretability**, **GNN-based detection architectures**, and **multi-turn benchmark design**
 - 👯 I'm looking to collaborate on **AI safety evaluations, benchmark design, and adversarial robustness research**
 - 💬 Ask me about **AI safety evals, surgical AI, or how to break into AI safety research from a non-traditional background**
